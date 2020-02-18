@@ -10,6 +10,7 @@ the test suite dependency.
 Make sure you have an up to date nodejs and then run:
 
 ```
+git clone https://github.com/TheGuardianWolf/KCodeChallenge.git
 npm install
 npm run test
 ```
