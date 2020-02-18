@@ -1,5 +1,9 @@
 # KITOMBA Code Challenge
 
+This repository contains the solutions to the three problems presented. Each problem is solved with a typescript
+file and run with JEST tests. These tests are also the method of input used. Outputs of the solvers are validated
+but not printed to the console. Some test inputs and outputs are validated by the use of text files.
+
 ## Prerequisites
 
 You will need nodejs LTS preferrably. Your system might need node-gyp to build
@@ -13,7 +17,7 @@ Make sure you have an up to date nodejs and then run:
 git clone https://github.com/TheGuardianWolf/KCodeChallenge.git
 cd KCodeChallenge
 npm install
-npm run test
+npm run test -- --verbose
 ```
 
 ## Additional Notes
