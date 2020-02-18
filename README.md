@@ -11,6 +11,7 @@ Make sure you have an up to date nodejs and then run:
 
 ```
 git clone https://github.com/TheGuardianWolf/KCodeChallenge.git
+cd KCodeChallenge
 npm install
 npm run test
 ```
